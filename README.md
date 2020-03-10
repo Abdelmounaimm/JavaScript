@@ -1,10 +1,10 @@
 # JavaScript
 JS the basics :
  
-Général knowledge
-Histoire du JS
-Javascript et paradigme qu’on peut utiliser (fonctionnel, orienté objet et procédurale).
-Standard ECMA et JS
+
+#Histoire du JS
+#Javascript et paradigme qu’on peut utiliser (fonctionnel, orienté objet et procédurale).
+#Standard ECMA et JS
 Comment lier JS avec HTML
 Compiler le code JS avec NodeJS
 Valeurs
