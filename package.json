@@ -1,0 +1,19 @@
+{
+  "name": "elm",
+  "version": "1.0.0",
+  "description": "Le code de cet exercice peut être exécuté via Node.js ou dans l'onglet \"console\" des outils de développement de votre navigateur.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youssefbm/C3Worshops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youssefbm/C3Worshops/issues"
+  },
+  "homepage": "https://github.com/youssefbm/C3Worshops#readme"
+}
